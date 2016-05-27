@@ -1,3 +1,4 @@
+<script type='text/javascript'>
 //<![CDATA[
 /*! buttons v1.1.4 - 2016-05-01 | Copyright (c) 2016 Adam Bouqdib (http://abemedia.co.uk) | donreach.com/license */
 /*! Sizzle v2.3.0 | (c) jQuery Foundation, Inc. | jquery.org/license */
@@ -19,3 +20,4 @@ if(imgDefer[i].getAttribute('data-src')) {
 imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
 } } }
 //]]>
+</script>
